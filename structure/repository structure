@@ -1,0 +1,9 @@
+bad-repo/
+├── README.md
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│   └── data.txt
+├── test/
+│   └── test_main.py
+└── requirements.txt
