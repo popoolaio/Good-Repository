@@ -1,7 +1,7 @@
 # Good-Repository
 
 
-This repository contains a simple Python project with proper structure and documentation.
+This repository contains a simple Python project with proper structure and documentation. It is intended to be compared with a [bad repository](https://github.com/popoolaio/Bad-Repository).
 
 
 ## Installation
